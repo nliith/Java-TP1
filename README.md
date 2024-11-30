@@ -1,5 +1,5 @@
 # Java-TP1
-Coursework for Qiong Liu's Java course taken in the first semester of the 2024/25 academic year.
+Coursework for Qiong Liu's Java course taken at CY Tech in the first semester of the 2024/25 academic year.
 
 This is one of four TP ("travaux pratiques") given as homework during the course. 
 
